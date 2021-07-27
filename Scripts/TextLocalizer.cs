@@ -1,6 +1,12 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
+/*
+ * Created by BibaDev: (https://biba.dev)
+ * Contact me: https://biba.dev/feedback
+ * Follow me: https://twitter.com/BibaDevOfficial
+ * GitHub: https://github.com/BibaDev/BibaDev.Localizations
+ */
 namespace BibaDev.Localizations
 {
     

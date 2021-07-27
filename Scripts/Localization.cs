@@ -4,6 +4,13 @@ using System.IO;
 using UnityEngine;
 using Newtonsoft.Json;
 
+/*
+ * Created by BibaDev: (https://biba.dev)
+ * Contact me: https://biba.dev/feedback
+ * Follow me: https://twitter.com/BibaDevOfficial
+ * GitHub: https://github.com/BibaDev/BibaDev.Localizations
+ */
+
 namespace BibaDev.Localizations
 {
     
